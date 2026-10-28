@@ -1,0 +1,17 @@
+Main |:
+  TOCA E
+  TOCA E
+  TOCA F
+  TOCA G
+  TOCA G
+  TOCA F
+  TOCA E
+  TOCA D
+  TOCA C
+  TOCA C
+  TOCA D
+  TOCA E
+  TOCA E
+  TOCA D
+  TOCA D
+:
