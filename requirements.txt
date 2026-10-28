@@ -1,2 +1,2 @@
 streamlit
-antlr4-python-runtime
+antlr4-python-runtime==4.13.1
