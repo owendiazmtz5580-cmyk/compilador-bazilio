@@ -1,2 +1,2 @@
 streamlit
-antlr4-tools
+antlr4-python-runtime
